@@ -10,7 +10,7 @@
 
 ## 🔍 What I Do
 - 🎯 Connecting top talent with top-tier companies
-- 🏭 Recruiting for Manufacturing, Financial Services, IT, and other key industries
+- 🏭 Recruiting for IT, Financial Services, Manufacturing, and other key industries
 - 💡 Conducting executive searches, salary negotiations, and stakeholder management
 - 🤝 Building long-term professional relationships
 
