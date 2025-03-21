@@ -70,14 +70,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">  
   <img src="https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin">  
-  <img src="https://img.shields.io/badge/Indeed-Red?style=for-the-badge&logo=indeed">  
+  <img src="https://img.shields.io/badge/Indeed-Blue?style=for-the-badge&logo=indeed">  
   <img src="https://img.shields.io/badge/SignalHire-Orange?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/ZoomInfo-Blue?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/ZoomInfo-Red?style=for-the-badge">  
   <img src="https://img.shields.io/badge/Monster-Purple?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/GulfTalent-Yellow?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/GulfTalent-Green?style=for-the-badge">  
   <img src="https://img.shields.io/badge/Bayt-Blue?style=for-the-badge">  
   <img src="https://img.shields.io/badge/GulfCareers-Teal?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/NaukriGulf-zgreen?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/NaukriGulf-Red?style=for-the-badge">  
   <img src="https://img.shields.io/badge/ATS%20Software-Recruitment-orange?style=for-the-badge">  
   <img src="https://img.shields.io/badge/Microsoft%20Office-Excel%20%7C%20PowerPoint-green?style=for-the-badge&logo=microsoft">  
 </p>
