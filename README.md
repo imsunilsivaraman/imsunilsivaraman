@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sunil Sivaraman!
 
-![Professional Banner](https://via.placeholder.com/1200x400.png?text=Professional+Recruitment+Expert)
+![Professional Banner](https://drive.google.com/uc?export=view&id=13NF0GKOLR2GxvoNyNBqL1n1roluAexD2)
 
 🔹 **Senior Recruitment Consultant | Account Manager | HeadHunter**  
 🔹 **Expertise:** Full-cycle recruitment, business development, and account management  
