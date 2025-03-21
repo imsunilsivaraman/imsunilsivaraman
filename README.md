@@ -2,10 +2,8 @@
 
 # 👋 Hi, I'm Sunil Sivaraman!
 
-![Professional Banner](https://drive.google.com/uc?export=view&id=13NF0GKOLR2GxvoNyNBqL1n1roluAexD2)
+![Professional Banner](https://github.com/imsunilsivaraman/imsunilsivaraman2/blob/main/Sunil%20Sivaraman.gif?raw=true)
 
-🔹 **Senior Recruitment Consultant | Account Manager | HeadHunter**  
-🔹 **Expertise:** Full-cycle recruitment, business development, and account management  
 🔹 **Industry Focus:** IT, BFSI, FMCG, Manufacturing, Banking, Financial Services, Insurance
 </div>
 
@@ -17,7 +15,7 @@
 💡 Conducting executive searches, salary negotiations, and stakeholder management  
 🤝 Building long-term professional relationships  
 
-![Hiring Process](https://via.placeholder.com/1000x300.png?text=Recruitment+Excellence)
+
 
 ---
 
@@ -53,14 +51,15 @@
 📌 **Financial & Banking Roles** (Wealth Managers, Risk Analysts, Investment Bankers, Compliance Officers)  
 📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators)  
 
-![Industry Leaders](https://via.placeholder.com/1000x300.png?text=Top+Industry+Placements)
-
 ---
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamsunilsivaraman/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>  
+  
+  <a href="https://www.linkedin.com/in/iamsunilsivaraman/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a> 
+  
   <a href="mailto:sunilsvrmn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>  
+  
   <a href="mailto:sunilsvrmn@icloud.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>  
 </p>
 
@@ -68,18 +67,18 @@
 
 ## 🚀 Tech & Tools I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">  
   <img src="https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin">  
-  <img src="https://img.shields.io/badge/Indeed-Blue?style=for-the-badge&logo=indeed">  
-  <img src="https://img.shields.io/badge/SignalHire-Orange?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/ZoomInfo-Red?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Monster-Purple?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/GulfTalent-Green?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Bayt-Blue?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/GulfCareers-Teal?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/NaukriGulf-Red?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/ATS%20Software-Recruitment-orange?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Microsoft%20Office-Excel%20%7C%20PowerPoint-green?style=for-the-badge&logo=microsoft">  
+  <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed">  
+  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/ZoomInfo-E2231A?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/Monster-5A0FC8?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/GulfTalent-009688?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/Bayt-0077B5?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/GulfCareers-20C997?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/NaukriGulf-E60023?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/ATS%20Software-FF8C00?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/Microsoft%20Office-2C68C3?style=for-the-badge&logo=microsoft">  
 </p>
 
 ---
