@@ -36,7 +36,6 @@
 📌 **Project Managers & Scrum Masters** (Agile, PMP, SAFe)  
 📌 **QA & Automation Engineers** (SDET, Selenium, Cypress, Performance Testing)  
 📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support, ITSM, ServiceNow)  
-📌 **AI/ML Engineers** (Deep Learning, NLP, AI Model Development)  
 📌 **Embedded Systems Engineers** (IoT, Robotics, Automotive Tech)  
 📌 **Blockchain & Web3 Developers** (Smart Contracts, DeFi, Crypto Tech)  
 
