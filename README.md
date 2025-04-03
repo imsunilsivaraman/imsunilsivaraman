@@ -21,7 +21,7 @@
 
 ## 🏆 Achievements & Awards
 🏅 **Top Closer Award (2022, 2023)** – $150K & $195K closures at The Staffing Exchange  
-🎯 **Closed a High-Value Recruitment Deal** worth CAD $200K  
+🎯 **Closed a High-Value Recruitment Deal** worth CAD $260K  
 🔍 **Best Client Recognition Award** for 96% closure rate in Background Investigations  
 🚀 **Trained & Led Teams** – Managed 10+ recruiters and optimized hiring efficiency  
 
@@ -31,7 +31,7 @@
 📌 **Software Engineers** (Frontend, Backend, Full Stack, DevOps, Cloud)  
 📌 **Data Scientists & Analysts** (Big Data, AI, Machine Learning, Business Intelligence)  
 📌 **Cybersecurity Specialists** (SOC Analysts, Ethical Hackers, Security Engineers)  
-📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, GCP, Kubernetes, Networking)  
+📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, Networking)  
 📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
 📌 **Project Managers & Scrum Masters** (Agile, PMP, SAFe)  
 📌 **QA & Automation Engineers** (SDET, Selenium, Cypress, Performance Testing)  
@@ -46,7 +46,7 @@
 📌 **Production & Operations** (Production Supervisors, Line Leaders, Quality Inspectors)  
 📌 **Engineering & Automation** (Process Engineers, Tooling Engineers, Automation Engineers)  
 📌 **Management & Leadership** (Plant Managers, Operations Managers, General Managers)  
-📌 **C-Level Executives** (COO, CFO, VP of Manufacturing, VP of Operations, VP of Finance)  
+📌 **C-Level Executives** ( CFO, VP of Manufacturing, VP of Operations, VP of Finance)  
 📌 **Financial & Banking Roles** (Wealth Managers, Risk Analysts, Investment Bankers, Compliance Officers)  
 📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators)
 
