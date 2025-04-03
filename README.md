@@ -69,7 +69,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">  
   <img src="https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin">  
   <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed">  
-  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge">  
+  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/ZoomInfo-E2231A?style=for-the-badge">  
   <img src="https://img.shields.io/badge/Monster-5A0FC8?style=for-the-badge">  
   <img src="https://img.shields.io/badge/GulfTalent-009688?style=for-the-badge">  
