@@ -4,7 +4,7 @@
 
 ![Professional Banner](https://github.com/imsunilsivaraman/imsunilsivaraman2/blob/main/Sunil%20Sivaraman.gif?raw=true)
 
-🔹 **Industry Focus:** IT, BFSI, FMCG, Construction, Manufacturing, Banking, Financial Services, Insurance
+🔹 **Industry Focus:** **IT, BFSI, FMCG, Construction, Manufacturing, Oil & Gas**
 </div>
 
 ---
