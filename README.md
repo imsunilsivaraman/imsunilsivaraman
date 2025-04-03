@@ -49,8 +49,11 @@
 📌 **C-Level Executives** (COO, CFO, VP of Manufacturing, VP of Operations, VP of Finance)  
 📌 **Financial & Banking Roles** (Wealth Managers, Risk Analysts, Investment Bankers, Compliance Officers)  
 📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators) 
+
 📌 **Project Manager / Supervisor** (Construction, Restoration, Energy sectors) 
+
 📌 **Construction Manager / Supervisor / Scaff holders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
+
 📌 **Structural Engineers / Hydrogen / Process Engineers / Architecural Designers / Robotics Engineers / PLC Engineers / Reliability Engineers / Site Superintendent** (Construction, Oil & gas, Lighting sectors)
 
 ---
