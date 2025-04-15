@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 What I Do
-🎯 Connecting top talent with top-tier companies  
+🎯 Connect top talent with top-tier companies  
 🏭 Recruiting for IT, Financial Services, Manufacturing, and other key industries  
 💡 Conducting executive searches, salary negotiations, and stakeholder management  
 🤝 Building long-term professional relationships  
@@ -20,7 +20,7 @@
 ---
 
 ## 🏆 Achievements & Awards
-🏅 **Top Closer 200K Award (2022, 2023)** – $200K & $230K closures at The Staffing Exchange  
+🏅 **Top Closer 200K Award (2022, 2023)** closures at The Staffing Exchange  
 🎯 **Closed a High-Value Recruitment Deal** worth CAD $260K  
 🔍 **Best Client Recognition Award** for 96% closure rate in Background Investigations  
 🚀 **Trained & Led Teams** – Managed 10+ recruiters and optimized hiring efficiency  
@@ -58,7 +58,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's connect!
 <p align="center">
   
   <a href="https://www.linkedin.com/in/iamsunilsivaraman/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a> 
@@ -94,7 +94,7 @@
 ## 🎯 Recent Work
 🔹 Successfully placed professionals in **North American & MENA region**  
 🔹 Engaged in C-level and IT / Oil & Gas / Construction / Engineering recruitment  
-🔹 Placed top talent in IT roles across **Software Development, Cybersecurity, Cloud Engineering, and Data Science**  
+🔹 Placed top talent in IT roles across **Software Engineers, Cybersecurity, Cloud Engineers, and DevOps**  
 🔹 Successfully placed Manufacturing, Construction, Engineering and Financial professionals in key leadership & technical roles  
 🔹 Helping job seekers secure competitive salaries & great opportunities  
 
