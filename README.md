@@ -11,7 +11,7 @@
 
 ## 🔍 What I Do
 🎯 Connect top talent with top-tier companies  
-🏭 Recruiting for IT, Financial Services, Manufacturing, and other key industries  
+🏭 Recruiting for IT, Construction, Manufacturing, and other key industries  
 💡 Conducting executive searches, salary negotiations, and stakeholder management  
 🤝 Building long-term professional relationships  
 
@@ -35,9 +35,7 @@
 📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
 📌 **Project Managers & Scrum Masters** (Agile, PMP, SAFe)  
 📌 **QA & Automation Engineers** (SDET, Selenium, Cypress, Performance Testing)  
-📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support, ITSM, ServiceNow)  
-📌 **Embedded Systems Engineers** (IoT, Robotics, Automotive Tech)  
-📌 **Blockchain & Web3 Developers** (Smart Contracts, DeFi, Crypto Tech)  
+📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support, ITSM, ServiceNow)   
 
 ---
 
