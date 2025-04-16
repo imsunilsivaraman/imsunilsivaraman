@@ -34,8 +34,8 @@
 📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, Networking)  
 📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
 📌 **Project Managers & Scrum Masters** (Agile, PMP, SAFe)  
-📌 **QA & Automation Engineers** (SDET, Selenium, Cypress, Performance Testing)  
-📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support, ITSM, ServiceNow)   
+📌 **QA & Automation Engineers** 
+📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support) 
 
 ---
 
