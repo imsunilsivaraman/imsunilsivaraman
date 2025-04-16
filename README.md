@@ -21,7 +21,7 @@
 
 ## 🏆 Achievements & Awards
 🏅 **Top Closer 200K Award (2022, 2023)** closures at The Staffing Exchange  
-🎯 **Closed a High-Value Recruitment Deal** worth CAD $260K  
+🎯 **Closed a High-Value Recruitment Deal** worth CAD $250K  
 🔍 **Best Client Recognition Award** for 96% closure rate in Background Investigations  
 🚀 **Trained & Led Teams** – Managed 8+ recruiters and optimized hiring efficiency  
 
