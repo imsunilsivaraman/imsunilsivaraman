@@ -23,7 +23,7 @@
 🏅 **Top Closer 200K Award (2022, 2023)** closures at The Staffing Exchange  
 🎯 **Closed a High-Value Recruitment Deal** worth CAD $260K  
 🔍 **Best Client Recognition Award** for 96% closure rate in Background Investigations  
-🚀 **Trained & Led Teams** – Managed 10+ recruiters and optimized hiring efficiency  
+🚀 **Trained & Led Teams** – Managed 8+ recruiters and optimized hiring efficiency  
 
 ---
 
@@ -50,7 +50,7 @@
 
 📌 **Project Manager / Supervisor** (Construction, Restoration, Energy sectors) 
 
-📌 **Construction Manager / Supervisor / Scaff holders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
+📌 **Construction Manager / Supervisor / Scaffolders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
 
 📌 **Structural Engineers / Hydrogen / Process Engineers / Architecural Designers / Robotics Engineers / PLC Engineers / Reliability Engineers / Site Superintendent** (Construction, Oil & gas, Lighting sectors)
 
