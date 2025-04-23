@@ -11,7 +11,7 @@
 
 ## 🔍 What I Do
 🎯 Connect top talent with top-tier companies  
-🏭 Recruiting for IT, Construction, Manufacturing, and other key industries  
+🏭 Recruiting for FMCG, Food, Construction, Manufacturing, and other key industries  
 💡 Conducting executive searches, salary negotiations, and stakeholder management  
 🤝 Building long-term professional relationships  
 
