@@ -87,9 +87,9 @@
 
 ## 🎯 Recent Work
 🔹 Successfully placed professionals in **North American & MENA region**  
-🔹 Engaged in C-level and IT / Oil & Gas / Construction / Engineering recruitment  
+🔹 Successfully placed FMCG, Manufacturing, Construction, Engineering professionals in key leadership & technical roles 
+🔹 Engaged in C-level and FMCG / Manufacturing / Oil & Gas / Construction / Engineering recruitment  
 🔹 Placed top talent in IT roles across **Software Engineers, Cybersecurity, Cloud Engineers, and DevOps**  
-🔹 Successfully placed Manufacturing, Construction, Engineering and Financial professionals in key leadership & technical roles  
 🔹 Helping job seekers secure competitive salaries & great opportunities  
 
 </div>
