@@ -42,11 +42,10 @@
 ---
 
 ## 🚀 Tech Recruitment & Placements
-📌 **Software Engineers** (Frontend, Backend, Full Stack, DevOps, Cloud)  
-📌 **Data Scientists & Analysts** (Big Data, AI, Machine Learning, Business Intelligence)  
-📌 **Cybersecurity Specialists** (SOC Analysts, Ethical Hackers, Security Engineers)  
-📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, Networking)  
-📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
+📌 **Software Engineers**
+📌 **Cybersecurity Specialists** 
+📌 **IT Infrastructure & Cloud Engineers** 
+📌 **ERP & CRM Specialists**
 📌 **Project Managers & Scrum Masters** 
 📌 **QA & Automation Engineers** 
 📌 **Tech Support & IT Helpdesk** 
