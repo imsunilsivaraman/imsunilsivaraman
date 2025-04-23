@@ -27,18 +27,6 @@
 
 ---
 
-## 🚀 Tech Recruitment & Placements
-📌 **Software Engineers** (Frontend, Backend, Full Stack, DevOps, Cloud)  
-📌 **Data Scientists & Analysts** (Big Data, AI, Machine Learning, Business Intelligence)  
-📌 **Cybersecurity Specialists** (SOC Analysts, Ethical Hackers, Security Engineers)  
-📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, Networking)  
-📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
-📌 **Project Managers & Scrum Masters** (Agile, PMP, SAFe)  
-📌 **QA & Automation Engineers** 
-📌 **Tech Support & IT Helpdesk** (L1, L2, L3 Support) 
-
----
-
 ## 🏭 Manufacturing, Oil & Gas, Construction & Financial Industry Placements
 📌 **Skilled Trades & Maintenance** (Electricians, Millwrights, Maintenance Technicians)  
 📌 **Production & Operations** (Production Supervisors, Line Leaders, Quality Inspectors)  
@@ -47,12 +35,21 @@
 📌 **C-Level Executives** ( CFO, VP of Manufacturing, VP of Operations, VP of Finance)  
 📌 **Financial & Banking Roles** (Wealth Managers, Risk Analysts, Investment Bankers, Compliance Officers)  
 📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators)
-
 📌 **Project Manager / Supervisor** (Construction, Restoration, Energy sectors) 
-
 📌 **Construction Manager / Supervisor / Scaffolders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
-
 📌 **Structural Engineers / Hydrogen / Process Engineers / Architecural Designers / Robotics Engineers / PLC Engineers / Reliability Engineers / Site Superintendent** (Construction, Oil & gas, Lighting sectors)
+
+---
+
+## 🚀 Tech Recruitment & Placements
+📌 **Software Engineers** (Frontend, Backend, Full Stack, DevOps, Cloud)  
+📌 **Data Scientists & Analysts** (Big Data, AI, Machine Learning, Business Intelligence)  
+📌 **Cybersecurity Specialists** (SOC Analysts, Ethical Hackers, Security Engineers)  
+📌 **IT Infrastructure & Cloud Engineers** (AWS, Azure, Networking)  
+📌 **ERP & CRM Specialists** (SAP, Oracle, Salesforce, Workday)  
+📌 **Project Managers & Scrum Masters** 
+📌 **QA & Automation Engineers** 
+📌 **Tech Support & IT Helpdesk** 
 
 ---
 
