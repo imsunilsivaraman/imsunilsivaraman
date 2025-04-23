@@ -27,13 +27,12 @@
 
 ---
 
-## 🏭 Manufacturing, Oil & Gas, Construction & Financial Industry Placements
+## 🏭 FMCG, Manufacturing, Oil & Gas, Construction & Financial Industry Placements
 📌 **Skilled Trades & Maintenance** (Electricians, Millwrights, Maintenance Technicians)  
-📌 **Production & Operations** (Production Supervisors, Line Leaders, Quality Inspectors)  
+📌 **Production & Operations** (Production Supervisors, Line Leaders, Food Quality Inspectors)  
 📌 **Engineering & Automation** (Process Engineers, Tooling Engineers, Automation Engineers)  
-📌 **Management & Leadership** (Plant Managers, Operations Managers, General Managers)  
-📌 **C-Level Executives** ( CFO, VP of Manufacturing, VP of Operations, VP of Finance)  
-📌 **Financial & Banking Roles** (Wealth Managers, Risk Analysts, Investment Bankers, Compliance Officers)  
+📌 **Management & Leadership** (Plant Managers in Foood and Automotive, Operations Managers, General Managers)  
+📌 **C-Level Executives** ( CFO in Oil & Gas, VP of Manufacturing in Automotive, VP of Operations in Food)  
 📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators)
 📌 **Project Manager / Supervisor** (Construction, Restoration, Energy sectors) 
 📌 **Construction Manager / Supervisor / Scaffolders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
