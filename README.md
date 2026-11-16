@@ -1,102 +1,69 @@
 <div align="center">
 
-# 👋 Hi, I'm Sunil Sivaraman!
+# 👋 Hi, I'm Sunil Sivaraman
 
-![Professional Banner](https://github.com/imsunilsivaraman/imsunilsivaraman2/blob/main/Sunil%20Sivaraman.gif?raw=true)
+### Executive Search & Talent Acquisition | GCC, Middle East & Africa
 
-🔹 **Industry Focus:** **FMCG, Construction, IT, Engineering, Manufacturing, Oil & Gas**
-</div>
+**Recruitment is my superpower — no cape, just results.**
 
----
+Senior recruitment and executive search consultant with 10+ years of international experience connecting organisations with the leaders and specialists they need to grow. Based in Dubai, I work across the UAE, Saudi Arabia and wider GCC, with regional and international reach through Antal's global network.
 
-## 🔍 What I Do
-🎯 Connect top talent with top-tier companies  
-🏭 Recruiting for FMCG, Food, Construction, Manufacturing, and other key industries  
-💡 Conducting executive searches, salary negotiations, and stakeholder management  
-🤝 Building long-term professional relationships  
-
-
-
----
-
-## 🏆 Achievements & Awards
-🏅 **Top Closer 200K Award (2022, 2023)** closures at The Staffing Exchange  
-🎯 **Closed a High-Value Recruitment Deal** worth CAD $250K  
-🔍 **Best Client Recognition Award** for 96% closure rate in Background Investigations  
-🚀 **Trained & Led Teams** – Managed 8+ recruiters and optimized hiring efficiency  
-
----
-
-## 🏭 FMCG, Manufacturing, Oil & Gas, Construction & Financial Industry Placements
-📌 **Skilled Trades & Maintenance** (Electricians, Millwrights, Maintenance Technicians)  
-📌 **Production & Operations** (Production Supervisors, Line Leaders, Food Quality Inspectors)  
-📌 **Engineering & Automation** (Process Engineers, Tooling Engineers, Automation Engineers)  
-📌 **Management & Leadership** (Plant Managers in Foood and Automotive, Operations Managers, General Managers)  
-📌 **C-Level Executives** ( CFO in Oil & Gas, VP of Manufacturing in Automotive, VP of Operations in Food)  
-📌 **Supply Chain & Logistics** (Supply Chain Managers, Procurement Specialists, Logistics Coordinators)
-📌 **Project Manager / Supervisor** (Construction, Restoration, Energy sectors) 
-📌 **Construction Manager / Supervisor / Scaffolders / Engineering Managers / Piping Engineers / Mechanical / Civil / Electrical Engineers** (Construction, Restoration, Energy sectors) 
-📌 **Structural Engineers / Hydrogen / Process Engineers / Architecural Designers / Robotics Engineers / PLC Engineers / Reliability Engineers / Site Superintendent** (Construction, Oil & gas, Lighting sectors)
-
----
-
-## 🚀 Tech Recruitment & Placements
-📌 **Software Engineers**
-📌 **Cybersecurity Specialists** 
-📌 **IT Infrastructure & Cloud Engineers** 
-📌 **ERP & CRM Specialists**
-📌 **Project Managers & Scrum Masters** 
-📌 **QA & Automation Engineers** 
-📌 **Tech Support & IT Helpdesk** 
-
----
-
-## 📫 Let's connect!
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/iamsunilsivaraman/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a> 
-  
-  <a href="mailto:sunilsvrmn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>  
-  
-  <a href="mailto:sunilsvrmn@icloud.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>  
-</p>
-
----
-
-## 🚀 Tech & Tools I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">  
-  <img src="https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin">  
-  <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed">  
-  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/SignalHire-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ZoomInfo-E2231A?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Monster-5A0FC8?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/GulfTalent-009688?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Bayt-0077B5?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/GulfCareers-20C997?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/NaukriGulf-E60023?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/ATS%20Software-FF8C00?style=for-the-badge">  
-  <img src="https://img.shields.io/badge/Microsoft%20Office-2C68C3?style=for-the-badge&logo=microsoft">  
-</p>
-
----
-
-<div align="center" style="background-color:#1E1E1E; padding:20px; border-radius:10px; color:white;">
-
-## 🎯 Recent Work
-🔹 Successfully placed professionals in **North American & MENA region**  
-🔹 Successfully placed FMCG, Manufacturing, Construction, Engineering professionals in key leadership & technical roles 
-🔹 Engaged in C-level and FMCG / Manufacturing / Oil & Gas / Construction / Engineering recruitment  
-🔹 Placed top talent in IT roles across **Software Engineers, Cybersecurity, Cloud Engineers, and DevOps**  
-🔹 Helping job seekers secure competitive salaries & great opportunities  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@gmail.com)
 
 </div>
 
 ---
 
-🚀 _Always open to networking & new opportunities!_  
+## What I do
+
+I lead a **180° recruitment desk**, combining client partnership and business development with hands-on search and delivery. My work includes:
+
+- Executive search and senior leadership hiring
+- Specialist and technical recruitment, from market mapping to offer
+- Account development and cross-border search collaboration
+- Talent intelligence, competitor mapping and salary benchmarking
+- Stakeholder partnership and recruitment strategy
+- National talent pipelines and workforce localisation, including Emiratisation and Saudisation
+
+## Markets and sectors
+
+I support searches across the **UAE, KSA and wider GCC**, as well as the Middle East and Africa, India, Canada and other international markets.
+
+My sector experience includes:
+
+- Food, FMCG and manufacturing
+- Engineering, construction and infrastructure
+- Energy, power and industrial businesses
+- Government, semi-government and investment groups
+- Defence and aerospace
+- Technology, AI and fintech
+
+## Selected experience
+
+- Built and developed key client accounts across the UAE, KSA, India, CIS and Europe.
+- Delivered mandates in partnership with Antal colleagues across international offices.
+- Worked on senior, specialist and project hiring for government-linked, semi-government and private-sector organisations.
+- Supported national workforce localisation through targeted Emirati, Saudi and other GCC national talent pipelines.
+- Recruited across both leadership and hands-on technical functions, adapting each search to the market and business need.
+
+Client and candidate details are kept confidential.
+
+## Search toolkit
+
+**LinkedIn Recruiter · Boolean and X-ray search · Talent mapping · Competitor research · Salary benchmarking · ATS and Workday**
+
+## Let's connect
+
+I'm always happy to connect with talent leaders, hiring managers, recruiters and professionals across the GCC and international markets.
+
+- [LinkedIn](https://www.linkedin.com/in/iamsunilsivaraman/)
+- [Email](mailto:sunilsvrmn@gmail.com)
 
 ---
 
-_"Finding the right talent isn't just recruitment; it's building the future of companies!"_
+<div align="center">
+
+*The right hire can change the direction of a team, a business and a career.*
+
+</div>
