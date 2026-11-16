@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Sunil Sivaraman career journey across India, Canada, and the UAE</title><desc id="d">A visual timeline from Hexaware in India, through Pure Staffing Solutions and The Staffing Exchange in Canada, to Antal International in the UAE, with recruitment leadership experience across each stage.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17123f"/><stop offset=".52" stop-color="#147d91"/><stop offset="1" stop-color="#5b43a6"/></linearGradient><linearGradient id="path" x2="1"><stop stop-color="#ffbd4a"/><stop offset=".52" stop-color="#ff6584"/><stop offset="1" stop-color="#54e5d4"/></linearGradient><pattern id="geo" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M19 1 37 19 19 37 1 19Z" fill="none" stroke="#fff" stroke-width="1" opacity=".13"/></pattern></defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/><rect width="1200" height="300" rx="28" fill="url(#geo)" opacity=".55"/>
+<text x="600" y="41" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">A CAREER JOURNEY ACROSS MARKETS</text>
+<text x="600" y="67" text-anchor="middle" fill="#dff7f2" font-family="Arial,Helvetica,sans-serif" font-size="14">From recruitment delivery in India to international executive search in the GCC</text>
+<path d="M192 127 C365 87 466 168 603 127 S844 89 1008 127" fill="none" stroke="url(#path)" stroke-width="5" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g transform="translate(82 92)">
+<circle cx="110" cy="35" r="27" fill="#ffbd4a" stroke="#fff" stroke-width="3"/><text x="110" y="42" fill="#32224c" font-size="19" font-weight="700">IN</text>
+<rect x="0" y="79" width="220" height="105" rx="18" fill="#fff8e8"/><text x="110" y="108" fill="#17324f" font-size="18" font-weight="700">India</text><text x="110" y="133" fill="#536277" font-size="14">Hexaware Technologies</text><text x="110" y="157" fill="#536277" font-size="13">Recruiting · team leadership</text>
+</g>
+<g transform="translate(407 92)">
+<circle cx="110" cy="35" r="27" fill="#ff6584" stroke="#fff" stroke-width="3"/><text x="110" y="42" fill="#fff" font-size="18" font-weight="700">CA</text>
+<rect x="0" y="79" width="260" height="105" rx="18" fill="#fff0ee"/><text x="130" y="108" fill="#17324f" font-size="18" font-weight="700">Canada</text><text x="130" y="133" fill="#536277" font-size="13">Pure Staffing Solutions</text><text x="130" y="155" fill="#536277" font-size="13">The Staffing Exchange</text><text x="130" y="175" fill="#536277" font-size="12">Talent acquisition · team leadership</text>
+</g>
+<g transform="translate(820 92)">
+<circle cx="110" cy="35" r="27" fill="#54e5d4" stroke="#fff" stroke-width="3"/><text x="110" y="42" fill="#17324f" font-size="18" font-weight="700">UAE</text>
+<rect x="0" y="79" width="260" height="105" rx="18" fill="#e8fbf7"/><text x="130" y="108" fill="#17324f" font-size="18" font-weight="700">UAE &amp; GCC</text><text x="130" y="133" fill="#536277" font-size="14">Antal International</text><text x="130" y="157" fill="#536277" font-size="13">Executive search · client partnership</text>
+</g>
+</g>
+<g fill="#ffe17b" opacity=".9"><path d="M1120 84 1125 97 1139 97 1128 105 1132 119 1120 111 1108 119 1112 105 1101 97 1115 97Z"/><path d="M70 211 74 221 85 221 76 228 80 239 70 232 60 239 64 228 55 221 66 221Z"/></g>
+<text x="600" y="260" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">International experience · cross-border search · GCC market focus</text>
+</svg>
