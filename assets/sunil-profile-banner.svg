@@ -1,33 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Sunil Sivaraman — Executive Search and Talent Acquisition</title>
-  <desc id="desc">A modern midnight blue banner with teal and gold accents, highlighting executive search and talent acquisition across the GCC and international markets.</desc>
+  <desc id="desc">A vibrant indigo, blue, teal and coral banner highlighting executive search and talent acquisition across the GCC and international markets.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset=".58" stop-color="#10253b"/>
-      <stop offset="1" stop-color="#153e52"/>
+      <stop offset="0" stop-color="#211044"/>
+      <stop offset=".48" stop-color="#174c91"/>
+      <stop offset="1" stop-color="#087f8c"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#36d6c2"/>
-      <stop offset="1" stop-color="#f1bd69"/>
+      <stop offset="0" stop-color="#ff4d8d"/>
+      <stop offset=".48" stop-color="#ffbd4a"/>
+      <stop offset="1" stop-color="#37e3d0"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0" stop-color="#32cdbb" stop-opacity=".2"/>
-      <stop offset="1" stop-color="#32cdbb" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff4d8d" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#ff4d8d" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
   <circle cx="1010" cy="110" r="275" fill="url(#glow)"/>
-  <path d="M760 0h440v360H900c90-105 30-205-140-360Z" fill="#ffffff" opacity=".025"/>
-  <path d="M800 0h4v360h-4z" fill="url(#accent)" opacity=".8"/>
-  <circle cx="1040" cy="176" r="118" fill="none" stroke="#7ce4d6" stroke-opacity=".16" stroke-width="1"/>
-  <circle cx="1040" cy="176" r="88" fill="none" stroke="#f1bd69" stroke-opacity=".22" stroke-width="1"/>
-  <circle cx="1040" cy="176" r="58" fill="#0d1e2e" stroke="#54d9c8" stroke-opacity=".55" stroke-width="2"/>
-  <text x="1040" y="193" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#f5f8fa">SS</text>
-  <text x="78" y="92" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#73dfd1">TALENT. LEADERSHIP. IMPACT.</text>
-  <text x="74" y="166" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="#f5f8fa">Sunil Sivaraman</text>
-  <text x="78" y="210" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#d4e0e8">Senior Recruitment &amp; Executive Search Consultant</text>
-  <rect x="78" y="247" width="476" height="2" rx="1" fill="url(#accent)"/>
-  <text x="78" y="285" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.2" fill="#c0d2dc">GCC &amp; MENA  ·  INTERNATIONAL SEARCH  ·  TALENT ACQUISITION</text>
-  <text x="78" y="324" font-family="Arial,Helvetica,sans-serif" font-size="15" font-style="italic" fill="#83a6b7">Recruitment is my superpower — no cape, just results.</text>
+  <path d="M760 0h440v360H900c90-105 30-205-140-360Z" fill="#ffffff" opacity=".06"/>
+  <path d="M800 0h4v360h-4z" fill="url(#accent)" opacity=".95"/>
+  <circle cx="1040" cy="176" r="118" fill="none" stroke="#58f0dd" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="1040" cy="176" r="88" fill="none" stroke="#ffbd4a" stroke-opacity=".68" stroke-width="2"/>
+  <circle cx="1040" cy="176" r="58" fill="#22164c" stroke="#ff6b9d" stroke-opacity=".95" stroke-width="3"/>
+  <text x="1040" y="193" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#ffffff">SS</text>
+  <text x="78" y="92" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#67f0dc">TALENT. LEADERSHIP. IMPACT.</text>
+  <text x="74" y="166" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="#ffffff">Sunil Sivaraman</text>
+  <text x="78" y="210" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#e4efff">Senior Recruitment &amp; Executive Search Consultant</text>
+  <rect x="78" y="247" width="476" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="78" y="285" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.2" fill="#d5e9ff">GCC &amp; MENA  ·  INTERNATIONAL SEARCH  ·  TALENT ACQUISITION</text>
+  <text x="78" y="324" font-family="Arial,Helvetica,sans-serif" font-size="15" font-style="italic" fill="#ffd18a">Recruitment is my superpower — no cape, just results.</text>
 </svg>
