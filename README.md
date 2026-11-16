@@ -19,11 +19,7 @@ Dubai-based recruitment professional with **10+ years of experience** across the
 
 ### At a glance
 
-![📌 At a glance](https://img.shields.io/badge/_At_a_glance-7C3AED?style=for-the-badge)
-
-| **10+ years** | **4 regions** | **Leadership to specialist** | **Localisation** |
-|:---:|:---:|:---:|:---:|
-| Recruitment experience | GCC · MEA · Canada · India | C-level, senior and technical search | Emiratisation · Saudisation · Qatarization |
+![At-a-glance infographic with experience, regions, search range, and GCC localisation](./assets/at-a-glance-visual.svg)
 
 ## Selected Project Highlights
 
@@ -63,31 +59,7 @@ Dubai-based recruitment professional with **10+ years of experience** across the
 
 ## Career journey
 
-![🧭 Career Journey](https://img.shields.io/badge/_Career_Journey-8B5CF6?style=for-the-badge)
-
-<details>
-<summary><strong>Antal International</strong> · Senior Consultant / Talent Acquisition Specialist · Dubai</summary>
-<br>
-Executive search and recruitment delivery across the GCC and international markets, alongside client account development, business growth and cross-border collaboration.
-</details>
-
-<details>
-<summary><strong>The Staffing Exchange</strong> · Senior Talent Acquisition Specialist / Team Leader · Canada</summary>
-<br>
-Led full-cycle recruitment, client management and team delivery across technology, manufacturing, FMCG, automotive, food, packaging, energy and plastics.
-</details>
-
-<details>
-<summary><strong>Pure Staffing Solutions</strong> · Talent Acquisition Specialist / Team Leader · Canada</summary>
-<br>
-Delivered executive, specialist and niche hiring while leading recruitment operations, client relationships and business development.
-</details>
-
-<details>
-<summary><strong>Hexaware Technologies</strong> · Senior Recruiter / SME, Background Verification · India</summary>
-<br>
-Managed client delivery and process improvement, led a 30–40 person team, and trained and mentored 50+ associates.
-</details>
+![Career transition timeline from India to Canada to the UAE and GCC](./assets/career-transition-visual.svg)
 
 ## Recognition & results
 
