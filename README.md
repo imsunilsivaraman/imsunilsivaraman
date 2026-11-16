@@ -29,6 +29,8 @@ Dubai-based recruitment professional with **10+ years of experience** across the
 
 ![🚀 Project Highlights](https://img.shields.io/badge/_Project_Highlights-EC4899?style=for-the-badge)
 
+![Illustration of infrastructure, AI and FinTech, localisation, and executive search projects](./assets/project-highlights-visual.svg)
+
 | **Infrastructure & Metro** | **AI & Financial Technology** |
 |:---|:---|
 | Recruited specialised technical talent for a major metro and infrastructure programme in Saudi Arabia. | Supported hiring for a confidential AI-focused initiative within a UAE government financial institution. |
@@ -43,6 +45,8 @@ Dubai-based recruitment professional with **10+ years of experience** across the
 
 ![🧩 What I Do](https://img.shields.io/badge/_What_I_Do-06B6D4?style=for-the-badge)
 
+![Illustration showing the recruitment journey from market mapping to successful placement](./assets/executive-search-visual.svg)
+
 - **Executive search:** C-level, senior leadership and specialist appointments
 - **Full-cycle recruitment:** Role briefing, headhunting, assessment, negotiation and placement
 - **Client partnership:** Account development, stakeholder management and business development
@@ -52,6 +56,8 @@ Dubai-based recruitment professional with **10+ years of experience** across the
 ## Sector experience
 
 ![🌍 Sector Experience](https://img.shields.io/badge/_Sector_Experience-F97316?style=for-the-badge)
+
+![Illustrated overview of engineering, manufacturing, FMCG, technology, finance, energy, and real estate sectors](./assets/sector-experience-visual.svg)
 
 **Engineering & PMC** · **Rail & Metro** · **Infrastructure** · **Manufacturing** · **Building Materials** · **FMCG & Food** · **Technology & AI** · **Financial Services** · **Real Estate** · **Energy & Industrial** · **Supply Chain**
 
