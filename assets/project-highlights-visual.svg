@@ -1,10 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-<title id="t">Selected recruitment project themes</title><desc id="d">Illustrated metro infrastructure, AI and financial technology, national talent pipelines, and cross-border executive search.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#211044"/><stop offset=".55" stop-color="#174c91"/><stop offset="1" stop-color="#087f8c"/></linearGradient></defs><rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-<text x="52" y="49" fill="#76f2dd" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">SEARCH THAT REACHES ACROSS SECTORS</text>
-<g font-family="Arial,sans-serif">
-<g transform="translate(52 78)"><rect width="260" height="175" rx="20" fill="#fff" opacity=".10" stroke="#fff" stroke-opacity=".22"/><path d="M28 88h95M40 88l18-28h42l18 28M52 89v24m53-24v24" fill="none" stroke="#48e1d2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="59" cy="118" r="9" fill="#ffbd4a"/><circle cx="105" cy="118" r="9" fill="#ffbd4a"/><text x="145" y="70" fill="#fff" font-size="18" font-weight="700">Infrastructure</text><text x="145" y="98" fill="#dceaff" font-size="14">Metro &amp; engineering</text><text x="145" y="120" fill="#dceaff" font-size="14">specialist talent</text><rect x="28" y="145" width="185" height="5" rx="3" fill="#ff5b8a"/></g>
-<g transform="translate(340 78)"><rect width="260" height="175" rx="20" fill="#fff" opacity=".10" stroke="#fff" stroke-opacity=".22"/><circle cx="78" cy="87" r="31" fill="none" stroke="#ffc857" stroke-width="4"/><circle cx="78" cy="87" r="12" fill="#ff5b8a"/><path d="M78 48V34m0 106v-14M39 87H25m106 0h-14M50 59l-10-10m76 76-10-10m0-56 10-10m-76 76 10-10" stroke="#43e4d3" stroke-width="4" stroke-linecap="round"/><text x="145" y="70" fill="#fff" font-size="18" font-weight="700">AI &amp; FinTech</text><text x="145" y="98" fill="#dceaff" font-size="14">Confidential,</text><text x="145" y="120" fill="#dceaff" font-size="14">high-impact hiring</text><rect x="28" y="145" width="185" height="5" rx="3" fill="#ffc857"/></g>
-<g transform="translate(628 78)"><rect width="260" height="175" rx="20" fill="#fff" opacity=".10" stroke="#fff" stroke-opacity=".22"/><circle cx="77" cy="75" r="15" fill="#ff5b8a"/><circle cx="43" cy="112" r="11" fill="#ffc857"/><circle cx="111" cy="112" r="11" fill="#43e4d3"/><path d="M67 87 51 102m36-15 16 15" stroke="#fff" stroke-width="3" opacity=".8"/><text x="145" y="70" fill="#fff" font-size="18" font-weight="700">Localisation</text><text x="145" y="98" fill="#dceaff" font-size="14">National talent</text><text x="145" y="120" fill="#dceaff" font-size="14">pipelines across GCC</text><rect x="28" y="145" width="185" height="5" rx="3" fill="#43e4d3"/></g>
-<g transform="translate(916 78)"><rect width="232" height="175" rx="20" fill="#fff" opacity=".10" stroke="#fff" stroke-opacity=".22"/><circle cx="70" cy="89" r="31" fill="none" stroke="#a78bfa" stroke-width="4"/><circle cx="70" cy="89" r="18" fill="none" stroke="#ffbd4a" stroke-width="3"/><circle cx="70" cy="89" r="6" fill="#48e1d2"/><path d="M101 89h28" stroke="#fff" stroke-width="3"/><text x="140" y="70" fill="#fff" font-size="18" font-weight="700">Executive</text><text x="140" y="94" fill="#fff" font-size="18" font-weight="700">Search</text><text x="140" y="120" fill="#dceaff" font-size="14">Cross-border</text><text x="140" y="140" fill="#dceaff" font-size="14">leadership hires</text><rect x="28" y="145" width="164" height="5" rx="3" fill="#a78bfa"/></g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Selected recruitment project highlights</title>
+<desc id="desc">Four bright illustrated cards cover Saudi metro hiring, a confidential UAE government AI initiative, GCC national talent pipelines, and cross-border executive search. The design uses Gulf-inspired arches and geometric motifs.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087f8c"/><stop offset=".48" stop-color="#0877b9"/><stop offset="1" stop-color="#5941a9"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffe17b"/><stop offset="1" stop-color="#ffad62"/></linearGradient>
+  <pattern id="lattice" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M21 1 41 21 21 41 1 21Z M21 1V41M1 21h40" fill="none" stroke="#fff" stroke-width="1.3" opacity=".25"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#123456" flood-opacity=".19"/></filter>
+</defs>
+<rect width="1200" height="330" rx="28" fill="url(#sky)"/>
+<rect x="0" y="0" width="1200" height="330" rx="28" fill="url(#lattice)" opacity=".20"/>
+<circle cx="1100" cy="55" r="118" fill="#ffcf62" opacity=".12"/>
+<circle cx="1082" cy="45" r="48" fill="none" stroke="#ffe17b" stroke-width="2" opacity=".55"/>
+<path d="M1082 20 1088 39 1108 39 1092 51 1098 70 1082 58 1066 70 1072 51 1056 39 1076 39Z" fill="#ffe17b" opacity=".72"/>
+<text x="600" y="44" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">SEARCH THAT REACHES ACROSS SECTORS</text>
+<path d="M472 57h256" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+<!-- Gulf-inspired pointed arch details -->
+<g fill="none" stroke="#fff" stroke-width="2" opacity=".24">
+  <path d="M19 74V41Q49 1 79 41v33M19 55h60M19 65h60"/>
+  <path d="M1121 74V41Q1151 1 1181 41v33M1121 55h60M1121 65h60"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" filter="url(#shadow)">
+  <g transform="translate(53 76)">
+    <rect width="260" height="222" rx="22" fill="#fff8e7"/>
+    <path d="M93 72V43Q130 1 167 43v29" fill="#ffe3a1" stroke="#ef9a38" stroke-width="2"/>
+    <path d="M104 60h52M109 60l8-16h26l8 16M117 60v13m28-13v13" fill="none" stroke="#087f8c" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="119" cy="75" r="4" fill="#ff765e"/><circle cx="145" cy="75" r="4" fill="#ff765e"/>
+    <text x="130" y="113" text-anchor="middle" fill="#18324f" font-size="17" font-weight="700">Infrastructure &amp; Metro</text>
+    <text x="130" y="147" text-anchor="middle" fill="#43546b" font-size="13">Specialist hiring for a major</text>
+    <text x="130" y="168" text-anchor="middle" fill="#43546b" font-size="13">Saudi metro programme</text>
+    <rect x="28" y="194" width="204" height="5" rx="2.5" fill="#f39a3c"/>
+    <circle cx="130" cy="194" r="6" fill="#ef6262"/>
+  </g>
+  <g transform="translate(331 76)">
+    <rect width="260" height="222" rx="22" fill="#e7fbf6"/>
+    <path d="M93 72V43Q130 1 167 43v29" fill="#baf2e4" stroke="#17a99b" stroke-width="2"/>
+    <circle cx="130" cy="51" r="18" fill="none" stroke="#087f8c" stroke-width="3"/>
+    <circle cx="130" cy="51" r="7" fill="#ff765e"/>
+    <path d="M130 25v8m0 36v8m-26-26h8m36 0h8m-44-18 6 6m24 24 6 6m0-36-6 6m-24 24-6 6" stroke="#7656c9" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="130" y="113" text-anchor="middle" fill="#18324f" font-size="17" font-weight="700">AI &amp; Financial Technology</text>
+    <text x="130" y="147" text-anchor="middle" fill="#43546b" font-size="13">Confidential UAE government</text>
+    <text x="130" y="168" text-anchor="middle" fill="#43546b" font-size="13">AI initiative</text>
+    <rect x="28" y="194" width="204" height="5" rx="2.5" fill="#12ae9e"/>
+    <circle cx="130" cy="194" r="6" fill="#7656c9"/>
+  </g>
+  <g transform="translate(609 76)">
+    <rect width="260" height="222" rx="22" fill="#fff0ee"/>
+    <path d="M93 72V43Q130 1 167 43v29" fill="#ffd0c9" stroke="#ed6d64" stroke-width="2"/>
+    <circle cx="130" cy="43" r="9" fill="#ed6d64"/>
+    <circle cx="108" cy="65" r="7" fill="#f3b742"/><circle cx="152" cy="65" r="7" fill="#13a99d"/>
+    <path d="M124 50 113 59m23-9 11 9" stroke="#7656c9" stroke-width="3" stroke-linecap="round"/>
+    <text x="130" y="113" text-anchor="middle" fill="#18324f" font-size="17" font-weight="700">GCC Talent Pipelines</text>
+    <text x="130" y="147" text-anchor="middle" fill="#43546b" font-size="13">Emiratisation · Saudisation</text>
+    <text x="130" y="168" text-anchor="middle" fill="#43546b" font-size="13">Qatarization · GCC mandates</text>
+    <rect x="28" y="194" width="204" height="5" rx="2.5" fill="#ed6d64"/>
+    <circle cx="130" cy="194" r="6" fill="#13a99d"/>
+  </g>
+  <g transform="translate(887 76)">
+    <rect width="260" height="222" rx="22" fill="#f1edff"/>
+    <path d="M93 72V43Q130 1 167 43v29" fill="#d8ceff" stroke="#7656c9" stroke-width="2"/>
+    <circle cx="130" cy="51" r="20" fill="none" stroke="#7656c9" stroke-width="3"/>
+    <circle cx="130" cy="51" r="11" fill="none" stroke="#f3b742" stroke-width="3"/>
+    <circle cx="130" cy="51" r="4" fill="#13a99d"/>
+    <path d="M150 51h12" stroke="#ed6d64" stroke-width="3" stroke-linecap="round"/>
+    <text x="130" y="113" text-anchor="middle" fill="#18324f" font-size="17" font-weight="700">Cross-border Search</text>
+    <text x="130" y="147" text-anchor="middle" fill="#43546b" font-size="13">UAE · KSA · India · CIS · Europe</text>
+    <text x="130" y="168" text-anchor="middle" fill="#43546b" font-size="13">Executive search &amp; client work</text>
+    <rect x="28" y="194" width="204" height="5" rx="2.5" fill="#7656c9"/>
+    <circle cx="130" cy="194" r="6" fill="#f3b742"/>
+  </g>
+</g>
+<!-- Small date-palm accents -->
+<g fill="none" stroke="#ffe17b" stroke-width="2.5" stroke-linecap="round" opacity=".72">
+  <path d="M29 287v-25m0 5-13-8m13 8 12-10m-12 15-15-1m15 1 14-3m-14-7-8-12m8 12 9-13"/>
+  <path d="M1171 287v-25m0 5-13-8m13 8 12-10m-12 15-15-1m15 1 14-3m-14-7-8-12m8 12 9-13"/>
+</g>
+</svg>
