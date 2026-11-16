@@ -9,8 +9,8 @@
 
 Dubai-based recruitment professional with 10+ years of experience across the GCC, Middle East & Africa, Canada and India. I partner with organisations on executive, senior leadership, specialist and technical hiring, bringing together market insight, hands-on search and strong client relationships.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
 
 </div>
 
@@ -38,18 +38,24 @@ Dubai-based recruitment professional with 10+ years of experience across the GCC
 
 I have supported government, semi-government, multinational, holding group and publicly listed organisations, as well as private-sector businesses.
 
+## Selected Project Highlights
+
+- **Major metro programme, Saudi Arabia** — Recruited specialised technical talent for a large-scale rail and infrastructure project.
+- **Confidential UAE financial technology initiative** — Supported recruitment for an AI-focused project within a government financial institution.
+- **GCC nationalisation mandates** — Built targeted talent pipelines to support Emiratisation, Saudisation, Qatarization and wider localisation goals.
+- **Government and holding group mandates** — Delivered senior, specialist and hard-to-fill roles across engineering, infrastructure, manufacturing, FMCG and technology.
+- **Cross-border account delivery** — Developed multinational client relationships and partnered with Antal colleagues to support searches across the UAE, KSA, India, CIS and Europe.
+
+Client and candidate information is kept confidential.
+
 ## Selected achievements
 
 - Recognised as a **Top Closer in 2022 and 2023** at The Staffing Exchange, including a **CAD 45,000 single recruitment deal**.
 - Received the **Top Closer Award in 2020** at Pure Staffing Solutions.
 - Developed and converted **two multinational client accounts** at Antal through business development and client partnership.
-- Delivered hard-to-fill technical recruitment for a major metro programme in Saudi Arabia.
-- Supported a confidential AI-focused project for a UAE government financial institution.
 - Led a **30–40 person team** at Hexaware and trained and mentored **50+ associates**.
 - Earned client recognition for background investigation delivery, achieving a **96% closure rate**.
-- Delivered GCC nationalisation mandates through targeted Emirati, Saudi, Qatari and regional talent pipelines.
-
-Client and candidate information is kept confidential.
+- Delivered hard-to-fill technical, specialist, senior management and executive mandates across multiple industries.
 
 ## Search toolkit
 
@@ -66,8 +72,8 @@ Client and candidate information is kept confidential.
 
 I'm glad to connect with talent leaders, hiring managers, recruiters and professionals across the GCC and international markets.
 
-- [LinkedIn](https://www.linkedin.com/in/iamsunilsivaraman/)
-- [Email](mailto:sunilsvrmn@icloud.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
 
 ---
 
