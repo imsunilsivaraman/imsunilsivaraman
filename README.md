@@ -2,8 +2,10 @@
 
 <img src="./assets/sunil-profile-banner.svg" alt="Sunil Sivaraman — Executive Search and Talent Acquisition" width="100%">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-2563EB?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-FF5B4D?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
+
+![Executive Search](https://img.shields.io/badge/Executive_Search-8B5CF6?style=flat-square) ![GCC Talent](https://img.shields.io/badge/GCC_Talent-06B6D4?style=flat-square) ![Localisation](https://img.shields.io/badge/Localisation-F97316?style=flat-square) ![Talent Intelligence](https://img.shields.io/badge/Talent_Intelligence-EC4899?style=flat-square)
 
 </div>
 
@@ -95,7 +97,7 @@ Certified Internet Recruiter — Naukri Gulf · LinkedIn Recruiter · Talent Sou
 
 For executive search, talent acquisition, or recruitment conversations:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-2563EB?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsunilsivaraman/)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-Email-FF5B4D?style=for-the-badge&logo=gmail)](mailto:sunilsvrmn@icloud.com)
 
 </div>
