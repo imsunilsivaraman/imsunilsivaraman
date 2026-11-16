@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d">
+<title id="t">Executive search and talent acquisition</title><desc id="d">A colorful illustration of connecting organisations with leadership and specialist talent.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17123f"/><stop offset="1" stop-color="#0b657b"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#ff5b8a"/><stop offset=".52" stop-color="#ffc857"/><stop offset="1" stop-color="#42e6d2"/></linearGradient></defs>
+<rect width="1200" height="250" rx="28" fill="url(#bg)"/><circle cx="1050" cy="80" r="170" fill="#ff5b8a" opacity=".09"/><circle cx="210" cy="220" r="170" fill="#36d8d0" opacity=".08"/>
+<text x="58" y="65" fill="#6df2df" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">HOW I CREATE IMPACT</text>
+<text x="58" y="111" fill="#fff" font-family="Arial,sans-serif" font-size="31" font-weight="700">The right people. The right opportunity.</text>
+<text x="58" y="145" fill="#d8e8ff" font-family="Arial,sans-serif" font-size="17">From market insight to successful placement across the GCC and international markets.</text>
+<path d="M150 197H1045" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<circle cx="170" cy="197" r="17" fill="#ff5b8a"/><text x="170" y="203" fill="#fff" font-size="16" font-weight="700">1</text><text x="170" y="233" fill="#fff" font-size="14">Map the market</text>
+<circle cx="460" cy="197" r="17" fill="#ffc857"/><text x="460" y="203" fill="#241744" font-size="16" font-weight="700">2</text><text x="460" y="233" fill="#fff" font-size="14">Find exceptional talent</text>
+<circle cx="750" cy="197" r="17" fill="#39d8cf"/><text x="750" y="203" fill="#103c50" font-size="16" font-weight="700">3</text><text x="750" y="233" fill="#fff" font-size="14">Build strong partnerships</text>
+<circle cx="1040" cy="197" r="17" fill="#a78bfa"/><text x="1040" y="203" fill="#fff" font-size="16" font-weight="700">4</text><text x="1040" y="233" fill="#fff" font-size="14">Deliver lasting impact</text>
+</g></svg>
